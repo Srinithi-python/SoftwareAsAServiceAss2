@@ -1,0 +1,6 @@
+Plan Summary
+----------------
+Pro: 4
+Basic: 1
+Enterprise: 1
+Unknown: 1
